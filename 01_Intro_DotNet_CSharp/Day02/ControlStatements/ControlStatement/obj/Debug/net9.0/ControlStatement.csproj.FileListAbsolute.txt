@@ -1,0 +1,15 @@
+F:\Wipro_DotnetFullstack\01_Intro_DotNet_CSharp\Day02\ControlStatements\ControlStatement\obj\Debug\net9.0\ControlStatement.GeneratedMSBuildEditorConfig.editorconfig
+F:\Wipro_DotnetFullstack\01_Intro_DotNet_CSharp\Day02\ControlStatements\ControlStatement\obj\Debug\net9.0\ControlStatement.AssemblyInfoInputs.cache
+F:\Wipro_DotnetFullstack\01_Intro_DotNet_CSharp\Day02\ControlStatements\ControlStatement\obj\Debug\net9.0\ControlStatement.AssemblyInfo.cs
+F:\Wipro_DotnetFullstack\01_Intro_DotNet_CSharp\Day02\ControlStatements\ControlStatement\obj\Debug\net9.0\ControlStatement.csproj.CoreCompileInputs.cache
+F:\Wipro_DotnetFullstack\01_Intro_DotNet_CSharp\Day02\ControlStatements\ControlStatement\obj\Debug\net9.0\ControlStatement.sourcelink.json
+F:\Wipro_DotnetFullstack\01_Intro_DotNet_CSharp\Day02\ControlStatements\ControlStatement\bin\Debug\net9.0\ControlStatement.exe
+F:\Wipro_DotnetFullstack\01_Intro_DotNet_CSharp\Day02\ControlStatements\ControlStatement\bin\Debug\net9.0\ControlStatement.deps.json
+F:\Wipro_DotnetFullstack\01_Intro_DotNet_CSharp\Day02\ControlStatements\ControlStatement\bin\Debug\net9.0\ControlStatement.runtimeconfig.json
+F:\Wipro_DotnetFullstack\01_Intro_DotNet_CSharp\Day02\ControlStatements\ControlStatement\bin\Debug\net9.0\ControlStatement.dll
+F:\Wipro_DotnetFullstack\01_Intro_DotNet_CSharp\Day02\ControlStatements\ControlStatement\bin\Debug\net9.0\ControlStatement.pdb
+F:\Wipro_DotnetFullstack\01_Intro_DotNet_CSharp\Day02\ControlStatements\ControlStatement\obj\Debug\net9.0\ControlStatement.dll
+F:\Wipro_DotnetFullstack\01_Intro_DotNet_CSharp\Day02\ControlStatements\ControlStatement\obj\Debug\net9.0\refint\ControlStatement.dll
+F:\Wipro_DotnetFullstack\01_Intro_DotNet_CSharp\Day02\ControlStatements\ControlStatement\obj\Debug\net9.0\ControlStatement.pdb
+F:\Wipro_DotnetFullstack\01_Intro_DotNet_CSharp\Day02\ControlStatements\ControlStatement\obj\Debug\net9.0\ControlStatement.genruntimeconfig.cache
+F:\Wipro_DotnetFullstack\01_Intro_DotNet_CSharp\Day02\ControlStatements\ControlStatement\obj\Debug\net9.0\ref\ControlStatement.dll
