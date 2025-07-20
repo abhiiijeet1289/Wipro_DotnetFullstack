@@ -1,0 +1,14 @@
+F:\Wipro_DotnetFullstack\01_Intro_DotNet_CSharp\Day02\DataTypes\obj\Debug\net9.0\DataTypes.GeneratedMSBuildEditorConfig.editorconfig
+F:\Wipro_DotnetFullstack\01_Intro_DotNet_CSharp\Day02\DataTypes\obj\Debug\net9.0\DataTypes.AssemblyInfoInputs.cache
+F:\Wipro_DotnetFullstack\01_Intro_DotNet_CSharp\Day02\DataTypes\obj\Debug\net9.0\DataTypes.AssemblyInfo.cs
+F:\Wipro_DotnetFullstack\01_Intro_DotNet_CSharp\Day02\DataTypes\obj\Debug\net9.0\DataTypes.csproj.CoreCompileInputs.cache
+F:\Wipro_DotnetFullstack\01_Intro_DotNet_CSharp\Day02\DataTypes\bin\Debug\net9.0\DataTypes.exe
+F:\Wipro_DotnetFullstack\01_Intro_DotNet_CSharp\Day02\DataTypes\bin\Debug\net9.0\DataTypes.deps.json
+F:\Wipro_DotnetFullstack\01_Intro_DotNet_CSharp\Day02\DataTypes\bin\Debug\net9.0\DataTypes.runtimeconfig.json
+F:\Wipro_DotnetFullstack\01_Intro_DotNet_CSharp\Day02\DataTypes\bin\Debug\net9.0\DataTypes.dll
+F:\Wipro_DotnetFullstack\01_Intro_DotNet_CSharp\Day02\DataTypes\bin\Debug\net9.0\DataTypes.pdb
+F:\Wipro_DotnetFullstack\01_Intro_DotNet_CSharp\Day02\DataTypes\obj\Debug\net9.0\DataTypes.dll
+F:\Wipro_DotnetFullstack\01_Intro_DotNet_CSharp\Day02\DataTypes\obj\Debug\net9.0\refint\DataTypes.dll
+F:\Wipro_DotnetFullstack\01_Intro_DotNet_CSharp\Day02\DataTypes\obj\Debug\net9.0\DataTypes.pdb
+F:\Wipro_DotnetFullstack\01_Intro_DotNet_CSharp\Day02\DataTypes\obj\Debug\net9.0\DataTypes.genruntimeconfig.cache
+F:\Wipro_DotnetFullstack\01_Intro_DotNet_CSharp\Day02\DataTypes\obj\Debug\net9.0\ref\DataTypes.dll

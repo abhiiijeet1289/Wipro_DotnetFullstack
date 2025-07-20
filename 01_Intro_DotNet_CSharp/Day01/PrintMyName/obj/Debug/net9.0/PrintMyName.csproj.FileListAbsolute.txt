@@ -1,0 +1,14 @@
+F:\Wipro_DotnetFullstack\01_Intro_DotNet_CSharp\Day01\PrintMyName\bin\Debug\net9.0\PrintMyName.exe
+F:\Wipro_DotnetFullstack\01_Intro_DotNet_CSharp\Day01\PrintMyName\bin\Debug\net9.0\PrintMyName.deps.json
+F:\Wipro_DotnetFullstack\01_Intro_DotNet_CSharp\Day01\PrintMyName\bin\Debug\net9.0\PrintMyName.runtimeconfig.json
+F:\Wipro_DotnetFullstack\01_Intro_DotNet_CSharp\Day01\PrintMyName\bin\Debug\net9.0\PrintMyName.dll
+F:\Wipro_DotnetFullstack\01_Intro_DotNet_CSharp\Day01\PrintMyName\bin\Debug\net9.0\PrintMyName.pdb
+F:\Wipro_DotnetFullstack\01_Intro_DotNet_CSharp\Day01\PrintMyName\obj\Debug\net9.0\PrintMyName.GeneratedMSBuildEditorConfig.editorconfig
+F:\Wipro_DotnetFullstack\01_Intro_DotNet_CSharp\Day01\PrintMyName\obj\Debug\net9.0\PrintMyName.AssemblyInfoInputs.cache
+F:\Wipro_DotnetFullstack\01_Intro_DotNet_CSharp\Day01\PrintMyName\obj\Debug\net9.0\PrintMyName.AssemblyInfo.cs
+F:\Wipro_DotnetFullstack\01_Intro_DotNet_CSharp\Day01\PrintMyName\obj\Debug\net9.0\PrintMyName.csproj.CoreCompileInputs.cache
+F:\Wipro_DotnetFullstack\01_Intro_DotNet_CSharp\Day01\PrintMyName\obj\Debug\net9.0\PrintMyName.dll
+F:\Wipro_DotnetFullstack\01_Intro_DotNet_CSharp\Day01\PrintMyName\obj\Debug\net9.0\refint\PrintMyName.dll
+F:\Wipro_DotnetFullstack\01_Intro_DotNet_CSharp\Day01\PrintMyName\obj\Debug\net9.0\PrintMyName.pdb
+F:\Wipro_DotnetFullstack\01_Intro_DotNet_CSharp\Day01\PrintMyName\obj\Debug\net9.0\PrintMyName.genruntimeconfig.cache
+F:\Wipro_DotnetFullstack\01_Intro_DotNet_CSharp\Day01\PrintMyName\obj\Debug\net9.0\ref\PrintMyName.dll

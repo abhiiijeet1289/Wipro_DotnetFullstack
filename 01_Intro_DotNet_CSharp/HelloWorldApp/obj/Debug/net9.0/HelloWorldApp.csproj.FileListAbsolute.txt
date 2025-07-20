@@ -1,0 +1,14 @@
+F:\Wipro_DotnetFullstack\01_Intro_DotNet_CSharp\HelloWorldApp\bin\Debug\net9.0\HelloWorldApp.exe
+F:\Wipro_DotnetFullstack\01_Intro_DotNet_CSharp\HelloWorldApp\bin\Debug\net9.0\HelloWorldApp.deps.json
+F:\Wipro_DotnetFullstack\01_Intro_DotNet_CSharp\HelloWorldApp\bin\Debug\net9.0\HelloWorldApp.runtimeconfig.json
+F:\Wipro_DotnetFullstack\01_Intro_DotNet_CSharp\HelloWorldApp\bin\Debug\net9.0\HelloWorldApp.dll
+F:\Wipro_DotnetFullstack\01_Intro_DotNet_CSharp\HelloWorldApp\bin\Debug\net9.0\HelloWorldApp.pdb
+F:\Wipro_DotnetFullstack\01_Intro_DotNet_CSharp\HelloWorldApp\obj\Debug\net9.0\HelloWorldApp.GeneratedMSBuildEditorConfig.editorconfig
+F:\Wipro_DotnetFullstack\01_Intro_DotNet_CSharp\HelloWorldApp\obj\Debug\net9.0\HelloWorldApp.AssemblyInfoInputs.cache
+F:\Wipro_DotnetFullstack\01_Intro_DotNet_CSharp\HelloWorldApp\obj\Debug\net9.0\HelloWorldApp.AssemblyInfo.cs
+F:\Wipro_DotnetFullstack\01_Intro_DotNet_CSharp\HelloWorldApp\obj\Debug\net9.0\HelloWorldApp.csproj.CoreCompileInputs.cache
+F:\Wipro_DotnetFullstack\01_Intro_DotNet_CSharp\HelloWorldApp\obj\Debug\net9.0\HelloWorldApp.dll
+F:\Wipro_DotnetFullstack\01_Intro_DotNet_CSharp\HelloWorldApp\obj\Debug\net9.0\refint\HelloWorldApp.dll
+F:\Wipro_DotnetFullstack\01_Intro_DotNet_CSharp\HelloWorldApp\obj\Debug\net9.0\HelloWorldApp.pdb
+F:\Wipro_DotnetFullstack\01_Intro_DotNet_CSharp\HelloWorldApp\obj\Debug\net9.0\HelloWorldApp.genruntimeconfig.cache
+F:\Wipro_DotnetFullstack\01_Intro_DotNet_CSharp\HelloWorldApp\obj\Debug\net9.0\ref\HelloWorldApp.dll

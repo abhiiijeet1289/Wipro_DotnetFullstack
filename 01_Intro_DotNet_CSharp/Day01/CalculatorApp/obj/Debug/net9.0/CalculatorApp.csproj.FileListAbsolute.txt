@@ -1,0 +1,14 @@
+F:\Wipro_DotnetFullstack\01_Intro_DotNet_CSharp\Day01\CalculatorApp\bin\Debug\net9.0\CalculatorApp.exe
+F:\Wipro_DotnetFullstack\01_Intro_DotNet_CSharp\Day01\CalculatorApp\bin\Debug\net9.0\CalculatorApp.deps.json
+F:\Wipro_DotnetFullstack\01_Intro_DotNet_CSharp\Day01\CalculatorApp\bin\Debug\net9.0\CalculatorApp.runtimeconfig.json
+F:\Wipro_DotnetFullstack\01_Intro_DotNet_CSharp\Day01\CalculatorApp\bin\Debug\net9.0\CalculatorApp.dll
+F:\Wipro_DotnetFullstack\01_Intro_DotNet_CSharp\Day01\CalculatorApp\bin\Debug\net9.0\CalculatorApp.pdb
+F:\Wipro_DotnetFullstack\01_Intro_DotNet_CSharp\Day01\CalculatorApp\obj\Debug\net9.0\CalculatorApp.GeneratedMSBuildEditorConfig.editorconfig
+F:\Wipro_DotnetFullstack\01_Intro_DotNet_CSharp\Day01\CalculatorApp\obj\Debug\net9.0\CalculatorApp.AssemblyInfoInputs.cache
+F:\Wipro_DotnetFullstack\01_Intro_DotNet_CSharp\Day01\CalculatorApp\obj\Debug\net9.0\CalculatorApp.AssemblyInfo.cs
+F:\Wipro_DotnetFullstack\01_Intro_DotNet_CSharp\Day01\CalculatorApp\obj\Debug\net9.0\CalculatorApp.csproj.CoreCompileInputs.cache
+F:\Wipro_DotnetFullstack\01_Intro_DotNet_CSharp\Day01\CalculatorApp\obj\Debug\net9.0\CalculatorApp.dll
+F:\Wipro_DotnetFullstack\01_Intro_DotNet_CSharp\Day01\CalculatorApp\obj\Debug\net9.0\refint\CalculatorApp.dll
+F:\Wipro_DotnetFullstack\01_Intro_DotNet_CSharp\Day01\CalculatorApp\obj\Debug\net9.0\CalculatorApp.pdb
+F:\Wipro_DotnetFullstack\01_Intro_DotNet_CSharp\Day01\CalculatorApp\obj\Debug\net9.0\CalculatorApp.genruntimeconfig.cache
+F:\Wipro_DotnetFullstack\01_Intro_DotNet_CSharp\Day01\CalculatorApp\obj\Debug\net9.0\ref\CalculatorApp.dll

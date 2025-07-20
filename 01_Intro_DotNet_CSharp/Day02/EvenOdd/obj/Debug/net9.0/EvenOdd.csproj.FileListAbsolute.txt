@@ -1,0 +1,14 @@
+F:\Wipro_DotnetFullstack\01_Intro_DotNet_CSharp\Day02_Loops_Datatypes\EvenOdd\bin\Debug\net9.0\EvenOdd.exe
+F:\Wipro_DotnetFullstack\01_Intro_DotNet_CSharp\Day02_Loops_Datatypes\EvenOdd\bin\Debug\net9.0\EvenOdd.deps.json
+F:\Wipro_DotnetFullstack\01_Intro_DotNet_CSharp\Day02_Loops_Datatypes\EvenOdd\bin\Debug\net9.0\EvenOdd.runtimeconfig.json
+F:\Wipro_DotnetFullstack\01_Intro_DotNet_CSharp\Day02_Loops_Datatypes\EvenOdd\bin\Debug\net9.0\EvenOdd.dll
+F:\Wipro_DotnetFullstack\01_Intro_DotNet_CSharp\Day02_Loops_Datatypes\EvenOdd\bin\Debug\net9.0\EvenOdd.pdb
+F:\Wipro_DotnetFullstack\01_Intro_DotNet_CSharp\Day02_Loops_Datatypes\EvenOdd\obj\Debug\net9.0\EvenOdd.GeneratedMSBuildEditorConfig.editorconfig
+F:\Wipro_DotnetFullstack\01_Intro_DotNet_CSharp\Day02_Loops_Datatypes\EvenOdd\obj\Debug\net9.0\EvenOdd.AssemblyInfoInputs.cache
+F:\Wipro_DotnetFullstack\01_Intro_DotNet_CSharp\Day02_Loops_Datatypes\EvenOdd\obj\Debug\net9.0\EvenOdd.AssemblyInfo.cs
+F:\Wipro_DotnetFullstack\01_Intro_DotNet_CSharp\Day02_Loops_Datatypes\EvenOdd\obj\Debug\net9.0\EvenOdd.csproj.CoreCompileInputs.cache
+F:\Wipro_DotnetFullstack\01_Intro_DotNet_CSharp\Day02_Loops_Datatypes\EvenOdd\obj\Debug\net9.0\EvenOdd.dll
+F:\Wipro_DotnetFullstack\01_Intro_DotNet_CSharp\Day02_Loops_Datatypes\EvenOdd\obj\Debug\net9.0\refint\EvenOdd.dll
+F:\Wipro_DotnetFullstack\01_Intro_DotNet_CSharp\Day02_Loops_Datatypes\EvenOdd\obj\Debug\net9.0\EvenOdd.pdb
+F:\Wipro_DotnetFullstack\01_Intro_DotNet_CSharp\Day02_Loops_Datatypes\EvenOdd\obj\Debug\net9.0\EvenOdd.genruntimeconfig.cache
+F:\Wipro_DotnetFullstack\01_Intro_DotNet_CSharp\Day02_Loops_Datatypes\EvenOdd\obj\Debug\net9.0\ref\EvenOdd.dll

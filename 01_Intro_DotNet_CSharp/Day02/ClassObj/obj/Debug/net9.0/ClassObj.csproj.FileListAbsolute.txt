@@ -1,0 +1,14 @@
+F:\Wipro_DotnetFullstack\01_Intro_DotNet_CSharp\Day02\ClassObj\obj\Debug\net9.0\ClassObj.GeneratedMSBuildEditorConfig.editorconfig
+F:\Wipro_DotnetFullstack\01_Intro_DotNet_CSharp\Day02\ClassObj\obj\Debug\net9.0\ClassObj.AssemblyInfoInputs.cache
+F:\Wipro_DotnetFullstack\01_Intro_DotNet_CSharp\Day02\ClassObj\obj\Debug\net9.0\ClassObj.AssemblyInfo.cs
+F:\Wipro_DotnetFullstack\01_Intro_DotNet_CSharp\Day02\ClassObj\obj\Debug\net9.0\ClassObj.csproj.CoreCompileInputs.cache
+F:\Wipro_DotnetFullstack\01_Intro_DotNet_CSharp\Day02\ClassObj\bin\Debug\net9.0\ClassObj.exe
+F:\Wipro_DotnetFullstack\01_Intro_DotNet_CSharp\Day02\ClassObj\bin\Debug\net9.0\ClassObj.deps.json
+F:\Wipro_DotnetFullstack\01_Intro_DotNet_CSharp\Day02\ClassObj\bin\Debug\net9.0\ClassObj.runtimeconfig.json
+F:\Wipro_DotnetFullstack\01_Intro_DotNet_CSharp\Day02\ClassObj\bin\Debug\net9.0\ClassObj.dll
+F:\Wipro_DotnetFullstack\01_Intro_DotNet_CSharp\Day02\ClassObj\bin\Debug\net9.0\ClassObj.pdb
+F:\Wipro_DotnetFullstack\01_Intro_DotNet_CSharp\Day02\ClassObj\obj\Debug\net9.0\ClassObj.dll
+F:\Wipro_DotnetFullstack\01_Intro_DotNet_CSharp\Day02\ClassObj\obj\Debug\net9.0\refint\ClassObj.dll
+F:\Wipro_DotnetFullstack\01_Intro_DotNet_CSharp\Day02\ClassObj\obj\Debug\net9.0\ClassObj.pdb
+F:\Wipro_DotnetFullstack\01_Intro_DotNet_CSharp\Day02\ClassObj\obj\Debug\net9.0\ClassObj.genruntimeconfig.cache
+F:\Wipro_DotnetFullstack\01_Intro_DotNet_CSharp\Day02\ClassObj\obj\Debug\net9.0\ref\ClassObj.dll
