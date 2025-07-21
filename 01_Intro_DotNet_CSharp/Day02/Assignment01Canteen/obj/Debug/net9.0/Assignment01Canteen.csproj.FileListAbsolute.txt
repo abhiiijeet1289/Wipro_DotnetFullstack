@@ -1,0 +1,15 @@
+F:\Wipro_DotnetFullstack\01_Intro_DotNet_CSharp\Day02\Assignment01Canteen\bin\Debug\net9.0\Assignment01Canteen.exe
+F:\Wipro_DotnetFullstack\01_Intro_DotNet_CSharp\Day02\Assignment01Canteen\bin\Debug\net9.0\Assignment01Canteen.deps.json
+F:\Wipro_DotnetFullstack\01_Intro_DotNet_CSharp\Day02\Assignment01Canteen\bin\Debug\net9.0\Assignment01Canteen.runtimeconfig.json
+F:\Wipro_DotnetFullstack\01_Intro_DotNet_CSharp\Day02\Assignment01Canteen\bin\Debug\net9.0\Assignment01Canteen.dll
+F:\Wipro_DotnetFullstack\01_Intro_DotNet_CSharp\Day02\Assignment01Canteen\bin\Debug\net9.0\Assignment01Canteen.pdb
+F:\Wipro_DotnetFullstack\01_Intro_DotNet_CSharp\Day02\Assignment01Canteen\obj\Debug\net9.0\Assignment01Canteen.GeneratedMSBuildEditorConfig.editorconfig
+F:\Wipro_DotnetFullstack\01_Intro_DotNet_CSharp\Day02\Assignment01Canteen\obj\Debug\net9.0\Assignment01Canteen.AssemblyInfoInputs.cache
+F:\Wipro_DotnetFullstack\01_Intro_DotNet_CSharp\Day02\Assignment01Canteen\obj\Debug\net9.0\Assignment01Canteen.AssemblyInfo.cs
+F:\Wipro_DotnetFullstack\01_Intro_DotNet_CSharp\Day02\Assignment01Canteen\obj\Debug\net9.0\Assignment01Canteen.csproj.CoreCompileInputs.cache
+F:\Wipro_DotnetFullstack\01_Intro_DotNet_CSharp\Day02\Assignment01Canteen\obj\Debug\net9.0\Assignment01Canteen.sourcelink.json
+F:\Wipro_DotnetFullstack\01_Intro_DotNet_CSharp\Day02\Assignment01Canteen\obj\Debug\net9.0\Assignment01Canteen.dll
+F:\Wipro_DotnetFullstack\01_Intro_DotNet_CSharp\Day02\Assignment01Canteen\obj\Debug\net9.0\refint\Assignment01Canteen.dll
+F:\Wipro_DotnetFullstack\01_Intro_DotNet_CSharp\Day02\Assignment01Canteen\obj\Debug\net9.0\Assignment01Canteen.pdb
+F:\Wipro_DotnetFullstack\01_Intro_DotNet_CSharp\Day02\Assignment01Canteen\obj\Debug\net9.0\Assignment01Canteen.genruntimeconfig.cache
+F:\Wipro_DotnetFullstack\01_Intro_DotNet_CSharp\Day02\Assignment01Canteen\obj\Debug\net9.0\ref\Assignment01Canteen.dll
