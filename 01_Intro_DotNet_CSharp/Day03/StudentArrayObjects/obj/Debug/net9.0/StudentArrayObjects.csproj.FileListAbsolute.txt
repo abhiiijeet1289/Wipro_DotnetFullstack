@@ -1,0 +1,15 @@
+F:\Wipro_DotnetFullstack\01_Intro_DotNet_CSharp\Day03\StudentArrayObjects\bin\Debug\net9.0\StudentArrayObjects.exe
+F:\Wipro_DotnetFullstack\01_Intro_DotNet_CSharp\Day03\StudentArrayObjects\bin\Debug\net9.0\StudentArrayObjects.deps.json
+F:\Wipro_DotnetFullstack\01_Intro_DotNet_CSharp\Day03\StudentArrayObjects\bin\Debug\net9.0\StudentArrayObjects.runtimeconfig.json
+F:\Wipro_DotnetFullstack\01_Intro_DotNet_CSharp\Day03\StudentArrayObjects\bin\Debug\net9.0\StudentArrayObjects.dll
+F:\Wipro_DotnetFullstack\01_Intro_DotNet_CSharp\Day03\StudentArrayObjects\bin\Debug\net9.0\StudentArrayObjects.pdb
+F:\Wipro_DotnetFullstack\01_Intro_DotNet_CSharp\Day03\StudentArrayObjects\obj\Debug\net9.0\StudentArrayObjects.GeneratedMSBuildEditorConfig.editorconfig
+F:\Wipro_DotnetFullstack\01_Intro_DotNet_CSharp\Day03\StudentArrayObjects\obj\Debug\net9.0\StudentArrayObjects.AssemblyInfoInputs.cache
+F:\Wipro_DotnetFullstack\01_Intro_DotNet_CSharp\Day03\StudentArrayObjects\obj\Debug\net9.0\StudentArrayObjects.AssemblyInfo.cs
+F:\Wipro_DotnetFullstack\01_Intro_DotNet_CSharp\Day03\StudentArrayObjects\obj\Debug\net9.0\StudentArrayObjects.csproj.CoreCompileInputs.cache
+F:\Wipro_DotnetFullstack\01_Intro_DotNet_CSharp\Day03\StudentArrayObjects\obj\Debug\net9.0\StudentArrayObjects.sourcelink.json
+F:\Wipro_DotnetFullstack\01_Intro_DotNet_CSharp\Day03\StudentArrayObjects\obj\Debug\net9.0\StudentArrayObjects.dll
+F:\Wipro_DotnetFullstack\01_Intro_DotNet_CSharp\Day03\StudentArrayObjects\obj\Debug\net9.0\refint\StudentArrayObjects.dll
+F:\Wipro_DotnetFullstack\01_Intro_DotNet_CSharp\Day03\StudentArrayObjects\obj\Debug\net9.0\StudentArrayObjects.pdb
+F:\Wipro_DotnetFullstack\01_Intro_DotNet_CSharp\Day03\StudentArrayObjects\obj\Debug\net9.0\StudentArrayObjects.genruntimeconfig.cache
+F:\Wipro_DotnetFullstack\01_Intro_DotNet_CSharp\Day03\StudentArrayObjects\obj\Debug\net9.0\ref\StudentArrayObjects.dll

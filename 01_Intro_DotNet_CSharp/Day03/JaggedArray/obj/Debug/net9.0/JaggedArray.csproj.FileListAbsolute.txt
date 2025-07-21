@@ -1,0 +1,15 @@
+F:\Wipro_DotnetFullstack\01_Intro_DotNet_CSharp\Day03\JaggedArray\obj\Debug\net9.0\JaggedArray.GeneratedMSBuildEditorConfig.editorconfig
+F:\Wipro_DotnetFullstack\01_Intro_DotNet_CSharp\Day03\JaggedArray\obj\Debug\net9.0\JaggedArray.AssemblyInfoInputs.cache
+F:\Wipro_DotnetFullstack\01_Intro_DotNet_CSharp\Day03\JaggedArray\obj\Debug\net9.0\JaggedArray.AssemblyInfo.cs
+F:\Wipro_DotnetFullstack\01_Intro_DotNet_CSharp\Day03\JaggedArray\obj\Debug\net9.0\JaggedArray.csproj.CoreCompileInputs.cache
+F:\Wipro_DotnetFullstack\01_Intro_DotNet_CSharp\Day03\JaggedArray\obj\Debug\net9.0\JaggedArray.sourcelink.json
+F:\Wipro_DotnetFullstack\01_Intro_DotNet_CSharp\Day03\JaggedArray\bin\Debug\net9.0\JaggedArray.exe
+F:\Wipro_DotnetFullstack\01_Intro_DotNet_CSharp\Day03\JaggedArray\bin\Debug\net9.0\JaggedArray.deps.json
+F:\Wipro_DotnetFullstack\01_Intro_DotNet_CSharp\Day03\JaggedArray\bin\Debug\net9.0\JaggedArray.runtimeconfig.json
+F:\Wipro_DotnetFullstack\01_Intro_DotNet_CSharp\Day03\JaggedArray\bin\Debug\net9.0\JaggedArray.dll
+F:\Wipro_DotnetFullstack\01_Intro_DotNet_CSharp\Day03\JaggedArray\bin\Debug\net9.0\JaggedArray.pdb
+F:\Wipro_DotnetFullstack\01_Intro_DotNet_CSharp\Day03\JaggedArray\obj\Debug\net9.0\JaggedArray.dll
+F:\Wipro_DotnetFullstack\01_Intro_DotNet_CSharp\Day03\JaggedArray\obj\Debug\net9.0\refint\JaggedArray.dll
+F:\Wipro_DotnetFullstack\01_Intro_DotNet_CSharp\Day03\JaggedArray\obj\Debug\net9.0\JaggedArray.pdb
+F:\Wipro_DotnetFullstack\01_Intro_DotNet_CSharp\Day03\JaggedArray\obj\Debug\net9.0\JaggedArray.genruntimeconfig.cache
+F:\Wipro_DotnetFullstack\01_Intro_DotNet_CSharp\Day03\JaggedArray\obj\Debug\net9.0\ref\JaggedArray.dll

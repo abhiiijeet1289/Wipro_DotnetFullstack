@@ -1,0 +1,15 @@
+F:\Wipro_DotnetFullstack\01_Intro_DotNet_CSharp\Day03\MultiDimen\bin\Debug\net9.0\MultiDimen.exe
+F:\Wipro_DotnetFullstack\01_Intro_DotNet_CSharp\Day03\MultiDimen\bin\Debug\net9.0\MultiDimen.deps.json
+F:\Wipro_DotnetFullstack\01_Intro_DotNet_CSharp\Day03\MultiDimen\bin\Debug\net9.0\MultiDimen.runtimeconfig.json
+F:\Wipro_DotnetFullstack\01_Intro_DotNet_CSharp\Day03\MultiDimen\bin\Debug\net9.0\MultiDimen.dll
+F:\Wipro_DotnetFullstack\01_Intro_DotNet_CSharp\Day03\MultiDimen\bin\Debug\net9.0\MultiDimen.pdb
+F:\Wipro_DotnetFullstack\01_Intro_DotNet_CSharp\Day03\MultiDimen\obj\Debug\net9.0\MultiDimen.GeneratedMSBuildEditorConfig.editorconfig
+F:\Wipro_DotnetFullstack\01_Intro_DotNet_CSharp\Day03\MultiDimen\obj\Debug\net9.0\MultiDimen.AssemblyInfoInputs.cache
+F:\Wipro_DotnetFullstack\01_Intro_DotNet_CSharp\Day03\MultiDimen\obj\Debug\net9.0\MultiDimen.AssemblyInfo.cs
+F:\Wipro_DotnetFullstack\01_Intro_DotNet_CSharp\Day03\MultiDimen\obj\Debug\net9.0\MultiDimen.csproj.CoreCompileInputs.cache
+F:\Wipro_DotnetFullstack\01_Intro_DotNet_CSharp\Day03\MultiDimen\obj\Debug\net9.0\MultiDimen.sourcelink.json
+F:\Wipro_DotnetFullstack\01_Intro_DotNet_CSharp\Day03\MultiDimen\obj\Debug\net9.0\MultiDimen.dll
+F:\Wipro_DotnetFullstack\01_Intro_DotNet_CSharp\Day03\MultiDimen\obj\Debug\net9.0\refint\MultiDimen.dll
+F:\Wipro_DotnetFullstack\01_Intro_DotNet_CSharp\Day03\MultiDimen\obj\Debug\net9.0\MultiDimen.pdb
+F:\Wipro_DotnetFullstack\01_Intro_DotNet_CSharp\Day03\MultiDimen\obj\Debug\net9.0\MultiDimen.genruntimeconfig.cache
+F:\Wipro_DotnetFullstack\01_Intro_DotNet_CSharp\Day03\MultiDimen\obj\Debug\net9.0\ref\MultiDimen.dll
