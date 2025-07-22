@@ -12,7 +12,7 @@ class Program
         for (int i = 0; i < 5; i++)
         {
             Console.Write($"Enter name of student #{i + 1}: ");
-            students[i, 0] = Console.ReadLine();
+            students[i, 0] = Console.ReadLine(); // Store name in column 0
 
             Console.Write($"Enter age of student #{i + 1}: ");
             students[i, 1] = Console.ReadLine(); 

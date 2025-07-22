@@ -6,13 +6,13 @@ class Program
     {
         int studentCount = 5;
 
-        // 1. Array to store student names
+       
         string[] studentNames = new string[studentCount];
 
-        // 2. Jagged array to store subjects for each student
+        
         string[][] studentSubjects = new string[studentCount][];
 
-        // 3. Input: Take student names and subject names
+        
         for (int i = 0; i < studentCount; i++)
         {
             Console.Write($"\nEnter name of student #{i + 1}: ");

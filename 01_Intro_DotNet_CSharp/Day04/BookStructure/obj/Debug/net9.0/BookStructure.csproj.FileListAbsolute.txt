@@ -1,0 +1,15 @@
+F:\Wipro_DotnetFullstack\Day04\BookStructure\bin\Debug\net9.0\BookStructure.exe
+F:\Wipro_DotnetFullstack\Day04\BookStructure\bin\Debug\net9.0\BookStructure.deps.json
+F:\Wipro_DotnetFullstack\Day04\BookStructure\bin\Debug\net9.0\BookStructure.runtimeconfig.json
+F:\Wipro_DotnetFullstack\Day04\BookStructure\bin\Debug\net9.0\BookStructure.dll
+F:\Wipro_DotnetFullstack\Day04\BookStructure\bin\Debug\net9.0\BookStructure.pdb
+F:\Wipro_DotnetFullstack\Day04\BookStructure\obj\Debug\net9.0\BookStructure.GeneratedMSBuildEditorConfig.editorconfig
+F:\Wipro_DotnetFullstack\Day04\BookStructure\obj\Debug\net9.0\BookStructure.AssemblyInfoInputs.cache
+F:\Wipro_DotnetFullstack\Day04\BookStructure\obj\Debug\net9.0\BookStructure.AssemblyInfo.cs
+F:\Wipro_DotnetFullstack\Day04\BookStructure\obj\Debug\net9.0\BookStructure.csproj.CoreCompileInputs.cache
+F:\Wipro_DotnetFullstack\Day04\BookStructure\obj\Debug\net9.0\BookStructure.sourcelink.json
+F:\Wipro_DotnetFullstack\Day04\BookStructure\obj\Debug\net9.0\BookStructure.dll
+F:\Wipro_DotnetFullstack\Day04\BookStructure\obj\Debug\net9.0\refint\BookStructure.dll
+F:\Wipro_DotnetFullstack\Day04\BookStructure\obj\Debug\net9.0\BookStructure.pdb
+F:\Wipro_DotnetFullstack\Day04\BookStructure\obj\Debug\net9.0\BookStructure.genruntimeconfig.cache
+F:\Wipro_DotnetFullstack\Day04\BookStructure\obj\Debug\net9.0\ref\BookStructure.dll

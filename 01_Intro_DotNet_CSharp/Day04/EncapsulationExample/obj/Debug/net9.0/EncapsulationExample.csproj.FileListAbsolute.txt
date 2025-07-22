@@ -1,0 +1,5 @@
+F:\Wipro_DotnetFullstack\Day04\EncapsulationExample\obj\Debug\net9.0\EncapsulationExample.GeneratedMSBuildEditorConfig.editorconfig
+F:\Wipro_DotnetFullstack\Day04\EncapsulationExample\obj\Debug\net9.0\EncapsulationExample.AssemblyInfoInputs.cache
+F:\Wipro_DotnetFullstack\Day04\EncapsulationExample\obj\Debug\net9.0\EncapsulationExample.AssemblyInfo.cs
+F:\Wipro_DotnetFullstack\Day04\EncapsulationExample\obj\Debug\net9.0\EncapsulationExample.csproj.CoreCompileInputs.cache
+F:\Wipro_DotnetFullstack\Day04\EncapsulationExample\obj\Debug\net9.0\EncapsulationExample.sourcelink.json

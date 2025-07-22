@@ -1,0 +1,15 @@
+F:\Wipro_DotnetFullstack\Day04\DeliverySystem\bin\Debug\net9.0\DeliverySystem.exe
+F:\Wipro_DotnetFullstack\Day04\DeliverySystem\bin\Debug\net9.0\DeliverySystem.deps.json
+F:\Wipro_DotnetFullstack\Day04\DeliverySystem\bin\Debug\net9.0\DeliverySystem.runtimeconfig.json
+F:\Wipro_DotnetFullstack\Day04\DeliverySystem\bin\Debug\net9.0\DeliverySystem.dll
+F:\Wipro_DotnetFullstack\Day04\DeliverySystem\bin\Debug\net9.0\DeliverySystem.pdb
+F:\Wipro_DotnetFullstack\Day04\DeliverySystem\obj\Debug\net9.0\DeliverySystem.GeneratedMSBuildEditorConfig.editorconfig
+F:\Wipro_DotnetFullstack\Day04\DeliverySystem\obj\Debug\net9.0\DeliverySystem.AssemblyInfoInputs.cache
+F:\Wipro_DotnetFullstack\Day04\DeliverySystem\obj\Debug\net9.0\DeliverySystem.AssemblyInfo.cs
+F:\Wipro_DotnetFullstack\Day04\DeliverySystem\obj\Debug\net9.0\DeliverySystem.csproj.CoreCompileInputs.cache
+F:\Wipro_DotnetFullstack\Day04\DeliverySystem\obj\Debug\net9.0\DeliverySystem.sourcelink.json
+F:\Wipro_DotnetFullstack\Day04\DeliverySystem\obj\Debug\net9.0\DeliverySystem.dll
+F:\Wipro_DotnetFullstack\Day04\DeliverySystem\obj\Debug\net9.0\refint\DeliverySystem.dll
+F:\Wipro_DotnetFullstack\Day04\DeliverySystem\obj\Debug\net9.0\DeliverySystem.pdb
+F:\Wipro_DotnetFullstack\Day04\DeliverySystem\obj\Debug\net9.0\DeliverySystem.genruntimeconfig.cache
+F:\Wipro_DotnetFullstack\Day04\DeliverySystem\obj\Debug\net9.0\ref\DeliverySystem.dll

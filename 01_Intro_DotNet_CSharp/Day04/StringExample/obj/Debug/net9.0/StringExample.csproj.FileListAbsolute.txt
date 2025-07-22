@@ -1,0 +1,15 @@
+F:\Wipro_DotnetFullstack\Day04\StringExample\obj\Debug\net9.0\StringExample.GeneratedMSBuildEditorConfig.editorconfig
+F:\Wipro_DotnetFullstack\Day04\StringExample\obj\Debug\net9.0\StringExample.AssemblyInfoInputs.cache
+F:\Wipro_DotnetFullstack\Day04\StringExample\obj\Debug\net9.0\StringExample.AssemblyInfo.cs
+F:\Wipro_DotnetFullstack\Day04\StringExample\obj\Debug\net9.0\StringExample.csproj.CoreCompileInputs.cache
+F:\Wipro_DotnetFullstack\Day04\StringExample\obj\Debug\net9.0\StringExample.sourcelink.json
+F:\Wipro_DotnetFullstack\Day04\StringExample\bin\Debug\net9.0\StringExample.exe
+F:\Wipro_DotnetFullstack\Day04\StringExample\bin\Debug\net9.0\StringExample.deps.json
+F:\Wipro_DotnetFullstack\Day04\StringExample\bin\Debug\net9.0\StringExample.runtimeconfig.json
+F:\Wipro_DotnetFullstack\Day04\StringExample\bin\Debug\net9.0\StringExample.dll
+F:\Wipro_DotnetFullstack\Day04\StringExample\bin\Debug\net9.0\StringExample.pdb
+F:\Wipro_DotnetFullstack\Day04\StringExample\obj\Debug\net9.0\StringExample.dll
+F:\Wipro_DotnetFullstack\Day04\StringExample\obj\Debug\net9.0\refint\StringExample.dll
+F:\Wipro_DotnetFullstack\Day04\StringExample\obj\Debug\net9.0\StringExample.pdb
+F:\Wipro_DotnetFullstack\Day04\StringExample\obj\Debug\net9.0\StringExample.genruntimeconfig.cache
+F:\Wipro_DotnetFullstack\Day04\StringExample\obj\Debug\net9.0\ref\StringExample.dll
