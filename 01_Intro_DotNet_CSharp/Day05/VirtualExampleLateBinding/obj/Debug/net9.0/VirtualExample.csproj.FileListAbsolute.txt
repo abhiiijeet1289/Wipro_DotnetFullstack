@@ -1,0 +1,15 @@
+F:\Wipro_DotnetFullstack\01_Intro_DotNet_CSharp\Day05\VirtualExample\bin\Debug\net9.0\VirtualExample.exe
+F:\Wipro_DotnetFullstack\01_Intro_DotNet_CSharp\Day05\VirtualExample\bin\Debug\net9.0\VirtualExample.deps.json
+F:\Wipro_DotnetFullstack\01_Intro_DotNet_CSharp\Day05\VirtualExample\bin\Debug\net9.0\VirtualExample.runtimeconfig.json
+F:\Wipro_DotnetFullstack\01_Intro_DotNet_CSharp\Day05\VirtualExample\bin\Debug\net9.0\VirtualExample.dll
+F:\Wipro_DotnetFullstack\01_Intro_DotNet_CSharp\Day05\VirtualExample\bin\Debug\net9.0\VirtualExample.pdb
+F:\Wipro_DotnetFullstack\01_Intro_DotNet_CSharp\Day05\VirtualExample\obj\Debug\net9.0\VirtualExample.GeneratedMSBuildEditorConfig.editorconfig
+F:\Wipro_DotnetFullstack\01_Intro_DotNet_CSharp\Day05\VirtualExample\obj\Debug\net9.0\VirtualExample.AssemblyInfoInputs.cache
+F:\Wipro_DotnetFullstack\01_Intro_DotNet_CSharp\Day05\VirtualExample\obj\Debug\net9.0\VirtualExample.AssemblyInfo.cs
+F:\Wipro_DotnetFullstack\01_Intro_DotNet_CSharp\Day05\VirtualExample\obj\Debug\net9.0\VirtualExample.csproj.CoreCompileInputs.cache
+F:\Wipro_DotnetFullstack\01_Intro_DotNet_CSharp\Day05\VirtualExample\obj\Debug\net9.0\VirtualExample.sourcelink.json
+F:\Wipro_DotnetFullstack\01_Intro_DotNet_CSharp\Day05\VirtualExample\obj\Debug\net9.0\VirtualExample.dll
+F:\Wipro_DotnetFullstack\01_Intro_DotNet_CSharp\Day05\VirtualExample\obj\Debug\net9.0\refint\VirtualExample.dll
+F:\Wipro_DotnetFullstack\01_Intro_DotNet_CSharp\Day05\VirtualExample\obj\Debug\net9.0\VirtualExample.pdb
+F:\Wipro_DotnetFullstack\01_Intro_DotNet_CSharp\Day05\VirtualExample\obj\Debug\net9.0\VirtualExample.genruntimeconfig.cache
+F:\Wipro_DotnetFullstack\01_Intro_DotNet_CSharp\Day05\VirtualExample\obj\Debug\net9.0\ref\VirtualExample.dll

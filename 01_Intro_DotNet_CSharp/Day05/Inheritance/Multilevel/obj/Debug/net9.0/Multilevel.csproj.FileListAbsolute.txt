@@ -1,0 +1,5 @@
+F:\Wipro_DotnetFullstack\01_Intro_DotNet_CSharp\Day05\Inheritance\Multilevel\obj\Debug\net9.0\Multilevel.GeneratedMSBuildEditorConfig.editorconfig
+F:\Wipro_DotnetFullstack\01_Intro_DotNet_CSharp\Day05\Inheritance\Multilevel\obj\Debug\net9.0\Multilevel.AssemblyInfoInputs.cache
+F:\Wipro_DotnetFullstack\01_Intro_DotNet_CSharp\Day05\Inheritance\Multilevel\obj\Debug\net9.0\Multilevel.AssemblyInfo.cs
+F:\Wipro_DotnetFullstack\01_Intro_DotNet_CSharp\Day05\Inheritance\Multilevel\obj\Debug\net9.0\Multilevel.csproj.CoreCompileInputs.cache
+F:\Wipro_DotnetFullstack\01_Intro_DotNet_CSharp\Day05\Inheritance\Multilevel\obj\Debug\net9.0\Multilevel.sourcelink.json

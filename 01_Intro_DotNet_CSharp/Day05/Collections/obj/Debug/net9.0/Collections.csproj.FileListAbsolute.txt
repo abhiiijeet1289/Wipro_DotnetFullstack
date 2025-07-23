@@ -1,0 +1,15 @@
+F:\Wipro_DotnetFullstack\01_Intro_DotNet_CSharp\Day05\Collections\bin\Debug\net9.0\Collections.exe
+F:\Wipro_DotnetFullstack\01_Intro_DotNet_CSharp\Day05\Collections\bin\Debug\net9.0\Collections.deps.json
+F:\Wipro_DotnetFullstack\01_Intro_DotNet_CSharp\Day05\Collections\bin\Debug\net9.0\Collections.runtimeconfig.json
+F:\Wipro_DotnetFullstack\01_Intro_DotNet_CSharp\Day05\Collections\bin\Debug\net9.0\Collections.dll
+F:\Wipro_DotnetFullstack\01_Intro_DotNet_CSharp\Day05\Collections\bin\Debug\net9.0\Collections.pdb
+F:\Wipro_DotnetFullstack\01_Intro_DotNet_CSharp\Day05\Collections\obj\Debug\net9.0\Collections.GeneratedMSBuildEditorConfig.editorconfig
+F:\Wipro_DotnetFullstack\01_Intro_DotNet_CSharp\Day05\Collections\obj\Debug\net9.0\Collections.AssemblyInfoInputs.cache
+F:\Wipro_DotnetFullstack\01_Intro_DotNet_CSharp\Day05\Collections\obj\Debug\net9.0\Collections.AssemblyInfo.cs
+F:\Wipro_DotnetFullstack\01_Intro_DotNet_CSharp\Day05\Collections\obj\Debug\net9.0\Collections.csproj.CoreCompileInputs.cache
+F:\Wipro_DotnetFullstack\01_Intro_DotNet_CSharp\Day05\Collections\obj\Debug\net9.0\Collections.sourcelink.json
+F:\Wipro_DotnetFullstack\01_Intro_DotNet_CSharp\Day05\Collections\obj\Debug\net9.0\Collections.dll
+F:\Wipro_DotnetFullstack\01_Intro_DotNet_CSharp\Day05\Collections\obj\Debug\net9.0\refint\Collections.dll
+F:\Wipro_DotnetFullstack\01_Intro_DotNet_CSharp\Day05\Collections\obj\Debug\net9.0\Collections.pdb
+F:\Wipro_DotnetFullstack\01_Intro_DotNet_CSharp\Day05\Collections\obj\Debug\net9.0\Collections.genruntimeconfig.cache
+F:\Wipro_DotnetFullstack\01_Intro_DotNet_CSharp\Day05\Collections\obj\Debug\net9.0\ref\Collections.dll

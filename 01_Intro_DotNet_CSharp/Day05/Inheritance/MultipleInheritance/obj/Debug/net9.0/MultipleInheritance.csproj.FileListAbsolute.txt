@@ -1,0 +1,15 @@
+F:\Wipro_DotnetFullstack\01_Intro_DotNet_CSharp\Day05\Inheritance\MultipleInheritance\obj\Debug\net9.0\MultipleInheritance.GeneratedMSBuildEditorConfig.editorconfig
+F:\Wipro_DotnetFullstack\01_Intro_DotNet_CSharp\Day05\Inheritance\MultipleInheritance\obj\Debug\net9.0\MultipleInheritance.AssemblyInfoInputs.cache
+F:\Wipro_DotnetFullstack\01_Intro_DotNet_CSharp\Day05\Inheritance\MultipleInheritance\obj\Debug\net9.0\MultipleInheritance.AssemblyInfo.cs
+F:\Wipro_DotnetFullstack\01_Intro_DotNet_CSharp\Day05\Inheritance\MultipleInheritance\obj\Debug\net9.0\MultipleInheritance.csproj.CoreCompileInputs.cache
+F:\Wipro_DotnetFullstack\01_Intro_DotNet_CSharp\Day05\Inheritance\MultipleInheritance\obj\Debug\net9.0\MultipleInheritance.sourcelink.json
+F:\Wipro_DotnetFullstack\01_Intro_DotNet_CSharp\Day05\Inheritance\MultipleInheritance\bin\Debug\net9.0\MultipleInheritance.exe
+F:\Wipro_DotnetFullstack\01_Intro_DotNet_CSharp\Day05\Inheritance\MultipleInheritance\bin\Debug\net9.0\MultipleInheritance.deps.json
+F:\Wipro_DotnetFullstack\01_Intro_DotNet_CSharp\Day05\Inheritance\MultipleInheritance\bin\Debug\net9.0\MultipleInheritance.runtimeconfig.json
+F:\Wipro_DotnetFullstack\01_Intro_DotNet_CSharp\Day05\Inheritance\MultipleInheritance\bin\Debug\net9.0\MultipleInheritance.dll
+F:\Wipro_DotnetFullstack\01_Intro_DotNet_CSharp\Day05\Inheritance\MultipleInheritance\bin\Debug\net9.0\MultipleInheritance.pdb
+F:\Wipro_DotnetFullstack\01_Intro_DotNet_CSharp\Day05\Inheritance\MultipleInheritance\obj\Debug\net9.0\MultipleInheritance.dll
+F:\Wipro_DotnetFullstack\01_Intro_DotNet_CSharp\Day05\Inheritance\MultipleInheritance\obj\Debug\net9.0\refint\MultipleInheritance.dll
+F:\Wipro_DotnetFullstack\01_Intro_DotNet_CSharp\Day05\Inheritance\MultipleInheritance\obj\Debug\net9.0\MultipleInheritance.pdb
+F:\Wipro_DotnetFullstack\01_Intro_DotNet_CSharp\Day05\Inheritance\MultipleInheritance\obj\Debug\net9.0\MultipleInheritance.genruntimeconfig.cache
+F:\Wipro_DotnetFullstack\01_Intro_DotNet_CSharp\Day05\Inheritance\MultipleInheritance\obj\Debug\net9.0\ref\MultipleInheritance.dll

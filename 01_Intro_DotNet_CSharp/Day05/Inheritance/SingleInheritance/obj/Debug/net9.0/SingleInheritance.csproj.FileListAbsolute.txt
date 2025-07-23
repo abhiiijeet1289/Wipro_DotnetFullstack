@@ -1,0 +1,5 @@
+F:\Wipro_DotnetFullstack\01_Intro_DotNet_CSharp\Day05\Inheritance\SingleInheritance\obj\Debug\net9.0\SingleInheritance.GeneratedMSBuildEditorConfig.editorconfig
+F:\Wipro_DotnetFullstack\01_Intro_DotNet_CSharp\Day05\Inheritance\SingleInheritance\obj\Debug\net9.0\SingleInheritance.AssemblyInfoInputs.cache
+F:\Wipro_DotnetFullstack\01_Intro_DotNet_CSharp\Day05\Inheritance\SingleInheritance\obj\Debug\net9.0\SingleInheritance.AssemblyInfo.cs
+F:\Wipro_DotnetFullstack\01_Intro_DotNet_CSharp\Day05\Inheritance\SingleInheritance\obj\Debug\net9.0\SingleInheritance.csproj.CoreCompileInputs.cache
+F:\Wipro_DotnetFullstack\01_Intro_DotNet_CSharp\Day05\Inheritance\SingleInheritance\obj\Debug\net9.0\SingleInheritance.sourcelink.json
