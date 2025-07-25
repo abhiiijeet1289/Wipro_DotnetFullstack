@@ -1,0 +1,15 @@
+F:\Wipro_DotnetFullstack\01_Intro_DotNet_CSharp\Day06\FileHandling\StreamReaderWriter\bin\Debug\net9.0\StreamReaderWriter.exe
+F:\Wipro_DotnetFullstack\01_Intro_DotNet_CSharp\Day06\FileHandling\StreamReaderWriter\bin\Debug\net9.0\StreamReaderWriter.deps.json
+F:\Wipro_DotnetFullstack\01_Intro_DotNet_CSharp\Day06\FileHandling\StreamReaderWriter\bin\Debug\net9.0\StreamReaderWriter.runtimeconfig.json
+F:\Wipro_DotnetFullstack\01_Intro_DotNet_CSharp\Day06\FileHandling\StreamReaderWriter\bin\Debug\net9.0\StreamReaderWriter.dll
+F:\Wipro_DotnetFullstack\01_Intro_DotNet_CSharp\Day06\FileHandling\StreamReaderWriter\bin\Debug\net9.0\StreamReaderWriter.pdb
+F:\Wipro_DotnetFullstack\01_Intro_DotNet_CSharp\Day06\FileHandling\StreamReaderWriter\obj\Debug\net9.0\StreamReaderWriter.GeneratedMSBuildEditorConfig.editorconfig
+F:\Wipro_DotnetFullstack\01_Intro_DotNet_CSharp\Day06\FileHandling\StreamReaderWriter\obj\Debug\net9.0\StreamReaderWriter.AssemblyInfoInputs.cache
+F:\Wipro_DotnetFullstack\01_Intro_DotNet_CSharp\Day06\FileHandling\StreamReaderWriter\obj\Debug\net9.0\StreamReaderWriter.AssemblyInfo.cs
+F:\Wipro_DotnetFullstack\01_Intro_DotNet_CSharp\Day06\FileHandling\StreamReaderWriter\obj\Debug\net9.0\StreamReaderWriter.csproj.CoreCompileInputs.cache
+F:\Wipro_DotnetFullstack\01_Intro_DotNet_CSharp\Day06\FileHandling\StreamReaderWriter\obj\Debug\net9.0\StreamReaderWriter.sourcelink.json
+F:\Wipro_DotnetFullstack\01_Intro_DotNet_CSharp\Day06\FileHandling\StreamReaderWriter\obj\Debug\net9.0\StreamReaderWriter.dll
+F:\Wipro_DotnetFullstack\01_Intro_DotNet_CSharp\Day06\FileHandling\StreamReaderWriter\obj\Debug\net9.0\refint\StreamReaderWriter.dll
+F:\Wipro_DotnetFullstack\01_Intro_DotNet_CSharp\Day06\FileHandling\StreamReaderWriter\obj\Debug\net9.0\StreamReaderWriter.pdb
+F:\Wipro_DotnetFullstack\01_Intro_DotNet_CSharp\Day06\FileHandling\StreamReaderWriter\obj\Debug\net9.0\StreamReaderWriter.genruntimeconfig.cache
+F:\Wipro_DotnetFullstack\01_Intro_DotNet_CSharp\Day06\FileHandling\StreamReaderWriter\obj\Debug\net9.0\ref\StreamReaderWriter.dll

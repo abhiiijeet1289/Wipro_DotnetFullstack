@@ -1,0 +1,15 @@
+F:\Wipro_DotnetFullstack\01_Intro_DotNet_CSharp\Day06\FileHandling\FileStrem\bin\Debug\net9.0\FileStrem.exe
+F:\Wipro_DotnetFullstack\01_Intro_DotNet_CSharp\Day06\FileHandling\FileStrem\bin\Debug\net9.0\FileStrem.deps.json
+F:\Wipro_DotnetFullstack\01_Intro_DotNet_CSharp\Day06\FileHandling\FileStrem\bin\Debug\net9.0\FileStrem.runtimeconfig.json
+F:\Wipro_DotnetFullstack\01_Intro_DotNet_CSharp\Day06\FileHandling\FileStrem\bin\Debug\net9.0\FileStrem.dll
+F:\Wipro_DotnetFullstack\01_Intro_DotNet_CSharp\Day06\FileHandling\FileStrem\bin\Debug\net9.0\FileStrem.pdb
+F:\Wipro_DotnetFullstack\01_Intro_DotNet_CSharp\Day06\FileHandling\FileStrem\obj\Debug\net9.0\FileStrem.GeneratedMSBuildEditorConfig.editorconfig
+F:\Wipro_DotnetFullstack\01_Intro_DotNet_CSharp\Day06\FileHandling\FileStrem\obj\Debug\net9.0\FileStrem.AssemblyInfoInputs.cache
+F:\Wipro_DotnetFullstack\01_Intro_DotNet_CSharp\Day06\FileHandling\FileStrem\obj\Debug\net9.0\FileStrem.AssemblyInfo.cs
+F:\Wipro_DotnetFullstack\01_Intro_DotNet_CSharp\Day06\FileHandling\FileStrem\obj\Debug\net9.0\FileStrem.csproj.CoreCompileInputs.cache
+F:\Wipro_DotnetFullstack\01_Intro_DotNet_CSharp\Day06\FileHandling\FileStrem\obj\Debug\net9.0\FileStrem.sourcelink.json
+F:\Wipro_DotnetFullstack\01_Intro_DotNet_CSharp\Day06\FileHandling\FileStrem\obj\Debug\net9.0\FileStrem.dll
+F:\Wipro_DotnetFullstack\01_Intro_DotNet_CSharp\Day06\FileHandling\FileStrem\obj\Debug\net9.0\refint\FileStrem.dll
+F:\Wipro_DotnetFullstack\01_Intro_DotNet_CSharp\Day06\FileHandling\FileStrem\obj\Debug\net9.0\FileStrem.pdb
+F:\Wipro_DotnetFullstack\01_Intro_DotNet_CSharp\Day06\FileHandling\FileStrem\obj\Debug\net9.0\FileStrem.genruntimeconfig.cache
+F:\Wipro_DotnetFullstack\01_Intro_DotNet_CSharp\Day06\FileHandling\FileStrem\obj\Debug\net9.0\ref\FileStrem.dll
