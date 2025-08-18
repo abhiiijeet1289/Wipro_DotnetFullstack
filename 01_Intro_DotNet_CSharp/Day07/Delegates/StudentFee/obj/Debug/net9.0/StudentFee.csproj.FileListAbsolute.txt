@@ -1,0 +1,15 @@
+F:\Wipro_DotnetFullstack\01_Intro_DotNet_CSharp\Day07\Delegates\StudentFee\bin\Debug\net9.0\StudentFee.exe
+F:\Wipro_DotnetFullstack\01_Intro_DotNet_CSharp\Day07\Delegates\StudentFee\bin\Debug\net9.0\StudentFee.deps.json
+F:\Wipro_DotnetFullstack\01_Intro_DotNet_CSharp\Day07\Delegates\StudentFee\bin\Debug\net9.0\StudentFee.runtimeconfig.json
+F:\Wipro_DotnetFullstack\01_Intro_DotNet_CSharp\Day07\Delegates\StudentFee\bin\Debug\net9.0\StudentFee.dll
+F:\Wipro_DotnetFullstack\01_Intro_DotNet_CSharp\Day07\Delegates\StudentFee\bin\Debug\net9.0\StudentFee.pdb
+F:\Wipro_DotnetFullstack\01_Intro_DotNet_CSharp\Day07\Delegates\StudentFee\obj\Debug\net9.0\StudentFee.GeneratedMSBuildEditorConfig.editorconfig
+F:\Wipro_DotnetFullstack\01_Intro_DotNet_CSharp\Day07\Delegates\StudentFee\obj\Debug\net9.0\StudentFee.AssemblyInfoInputs.cache
+F:\Wipro_DotnetFullstack\01_Intro_DotNet_CSharp\Day07\Delegates\StudentFee\obj\Debug\net9.0\StudentFee.AssemblyInfo.cs
+F:\Wipro_DotnetFullstack\01_Intro_DotNet_CSharp\Day07\Delegates\StudentFee\obj\Debug\net9.0\StudentFee.csproj.CoreCompileInputs.cache
+F:\Wipro_DotnetFullstack\01_Intro_DotNet_CSharp\Day07\Delegates\StudentFee\obj\Debug\net9.0\StudentFee.sourcelink.json
+F:\Wipro_DotnetFullstack\01_Intro_DotNet_CSharp\Day07\Delegates\StudentFee\obj\Debug\net9.0\StudentFee.dll
+F:\Wipro_DotnetFullstack\01_Intro_DotNet_CSharp\Day07\Delegates\StudentFee\obj\Debug\net9.0\refint\StudentFee.dll
+F:\Wipro_DotnetFullstack\01_Intro_DotNet_CSharp\Day07\Delegates\StudentFee\obj\Debug\net9.0\StudentFee.pdb
+F:\Wipro_DotnetFullstack\01_Intro_DotNet_CSharp\Day07\Delegates\StudentFee\obj\Debug\net9.0\StudentFee.genruntimeconfig.cache
+F:\Wipro_DotnetFullstack\01_Intro_DotNet_CSharp\Day07\Delegates\StudentFee\obj\Debug\net9.0\ref\StudentFee.dll

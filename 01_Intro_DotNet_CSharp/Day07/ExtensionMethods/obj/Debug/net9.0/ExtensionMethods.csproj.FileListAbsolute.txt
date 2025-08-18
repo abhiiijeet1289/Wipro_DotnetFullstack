@@ -1,0 +1,15 @@
+F:\Wipro_DotnetFullstack\01_Intro_DotNet_CSharp\Day07\ExtensionMethods\bin\Debug\net9.0\ExtensionMethods.exe
+F:\Wipro_DotnetFullstack\01_Intro_DotNet_CSharp\Day07\ExtensionMethods\bin\Debug\net9.0\ExtensionMethods.deps.json
+F:\Wipro_DotnetFullstack\01_Intro_DotNet_CSharp\Day07\ExtensionMethods\bin\Debug\net9.0\ExtensionMethods.runtimeconfig.json
+F:\Wipro_DotnetFullstack\01_Intro_DotNet_CSharp\Day07\ExtensionMethods\bin\Debug\net9.0\ExtensionMethods.dll
+F:\Wipro_DotnetFullstack\01_Intro_DotNet_CSharp\Day07\ExtensionMethods\bin\Debug\net9.0\ExtensionMethods.pdb
+F:\Wipro_DotnetFullstack\01_Intro_DotNet_CSharp\Day07\ExtensionMethods\obj\Debug\net9.0\ExtensionMethods.GeneratedMSBuildEditorConfig.editorconfig
+F:\Wipro_DotnetFullstack\01_Intro_DotNet_CSharp\Day07\ExtensionMethods\obj\Debug\net9.0\ExtensionMethods.AssemblyInfoInputs.cache
+F:\Wipro_DotnetFullstack\01_Intro_DotNet_CSharp\Day07\ExtensionMethods\obj\Debug\net9.0\ExtensionMethods.AssemblyInfo.cs
+F:\Wipro_DotnetFullstack\01_Intro_DotNet_CSharp\Day07\ExtensionMethods\obj\Debug\net9.0\ExtensionMethods.csproj.CoreCompileInputs.cache
+F:\Wipro_DotnetFullstack\01_Intro_DotNet_CSharp\Day07\ExtensionMethods\obj\Debug\net9.0\ExtensionMethods.sourcelink.json
+F:\Wipro_DotnetFullstack\01_Intro_DotNet_CSharp\Day07\ExtensionMethods\obj\Debug\net9.0\ExtensionMethods.dll
+F:\Wipro_DotnetFullstack\01_Intro_DotNet_CSharp\Day07\ExtensionMethods\obj\Debug\net9.0\refint\ExtensionMethods.dll
+F:\Wipro_DotnetFullstack\01_Intro_DotNet_CSharp\Day07\ExtensionMethods\obj\Debug\net9.0\ExtensionMethods.pdb
+F:\Wipro_DotnetFullstack\01_Intro_DotNet_CSharp\Day07\ExtensionMethods\obj\Debug\net9.0\ExtensionMethods.genruntimeconfig.cache
+F:\Wipro_DotnetFullstack\01_Intro_DotNet_CSharp\Day07\ExtensionMethods\obj\Debug\net9.0\ref\ExtensionMethods.dll

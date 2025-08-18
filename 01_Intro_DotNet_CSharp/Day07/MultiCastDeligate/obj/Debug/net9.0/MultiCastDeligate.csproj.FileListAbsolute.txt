@@ -1,0 +1,15 @@
+F:\Wipro_DotnetFullstack\01_Intro_DotNet_CSharp\Day07\MultiCastDeligate\obj\Debug\net9.0\MultiCastDeligate.GeneratedMSBuildEditorConfig.editorconfig
+F:\Wipro_DotnetFullstack\01_Intro_DotNet_CSharp\Day07\MultiCastDeligate\obj\Debug\net9.0\MultiCastDeligate.AssemblyInfoInputs.cache
+F:\Wipro_DotnetFullstack\01_Intro_DotNet_CSharp\Day07\MultiCastDeligate\obj\Debug\net9.0\MultiCastDeligate.AssemblyInfo.cs
+F:\Wipro_DotnetFullstack\01_Intro_DotNet_CSharp\Day07\MultiCastDeligate\obj\Debug\net9.0\MultiCastDeligate.csproj.CoreCompileInputs.cache
+F:\Wipro_DotnetFullstack\01_Intro_DotNet_CSharp\Day07\MultiCastDeligate\obj\Debug\net9.0\MultiCastDeligate.sourcelink.json
+F:\Wipro_DotnetFullstack\01_Intro_DotNet_CSharp\Day07\MultiCastDeligate\bin\Debug\net9.0\MultiCastDeligate.exe
+F:\Wipro_DotnetFullstack\01_Intro_DotNet_CSharp\Day07\MultiCastDeligate\bin\Debug\net9.0\MultiCastDeligate.deps.json
+F:\Wipro_DotnetFullstack\01_Intro_DotNet_CSharp\Day07\MultiCastDeligate\bin\Debug\net9.0\MultiCastDeligate.runtimeconfig.json
+F:\Wipro_DotnetFullstack\01_Intro_DotNet_CSharp\Day07\MultiCastDeligate\bin\Debug\net9.0\MultiCastDeligate.dll
+F:\Wipro_DotnetFullstack\01_Intro_DotNet_CSharp\Day07\MultiCastDeligate\bin\Debug\net9.0\MultiCastDeligate.pdb
+F:\Wipro_DotnetFullstack\01_Intro_DotNet_CSharp\Day07\MultiCastDeligate\obj\Debug\net9.0\MultiCastDeligate.dll
+F:\Wipro_DotnetFullstack\01_Intro_DotNet_CSharp\Day07\MultiCastDeligate\obj\Debug\net9.0\refint\MultiCastDeligate.dll
+F:\Wipro_DotnetFullstack\01_Intro_DotNet_CSharp\Day07\MultiCastDeligate\obj\Debug\net9.0\MultiCastDeligate.pdb
+F:\Wipro_DotnetFullstack\01_Intro_DotNet_CSharp\Day07\MultiCastDeligate\obj\Debug\net9.0\MultiCastDeligate.genruntimeconfig.cache
+F:\Wipro_DotnetFullstack\01_Intro_DotNet_CSharp\Day07\MultiCastDeligate\obj\Debug\net9.0\ref\MultiCastDeligate.dll
